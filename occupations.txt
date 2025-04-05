@@ -1,0 +1,63 @@
+Accountant
+Actor
+Architect
+Artist
+Astronaut
+Athlete
+Author
+Bartender
+Biologist
+Business Analyst
+CEO
+Chef
+Civil Engineer
+Clergy
+Computer Programmer
+Construction Worker
+Consultant
+Customer Service Representative
+Data Scientist
+Dentist
+Diplomat
+Doctor
+Economist
+Electrician
+Entrepreneur
+Environmental Scientist
+Farmer
+Fashion Designer
+Financial Advisor
+Firefighter
+Graphic Designer
+Historian
+HR Manager
+Influencer
+Journalist
+Judge
+Lawyer
+Librarian
+Management Consultant
+Marketing Manager
+Mathematician
+Mechanical Engineer
+Military Officer
+Musician
+Nurse
+Pharmacist
+Philosopher
+Photographer
+Physicist
+Pilot
+Police Officer
+Politician
+Professor
+Psychologist
+Real Estate Agent
+Salesperson
+Social Worker
+Software Engineer
+Surgeon
+Teacher
+Therapist
+Veterinarian
+Web Developer

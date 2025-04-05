@@ -1,0 +1,1 @@
+We're building a tool for fetching embeddings for a word list and a theme list, running cosine similarity between them, and then visualizing the results.
